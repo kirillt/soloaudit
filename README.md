@@ -32,7 +32,7 @@ Some companies I've worked for:
 
 | Timeframe | Highest Issue | Ecosystem | Audit | Tech |
 |-----------|--------------|-----------|----------------|------|
-|![in progress]|![crit]|![eth] ![l2]|ZKsync OS: Elliptic cryptography|![rust]|
+|2025-10|![crit]|![eth] ![l2]|[ZKsync OS: Elliptic cryptography](https://github.com/taran-space/audit-reports/blob/main/2025-10-ZKsync-OS.pdf)|![rust]|
 |2025-07|![high]|![eth] ![l2]|[ZKsync OS: Bootloader](https://github.com/taran-space/audit-reports/blob/main/2025-08-ZKsync-OS.pdf)|![rust]|
 |2025-11|![medium]|![eth] ![polka]|[Snowbridge](https://github.com/oak-security/audit-reports/tree/main/Snowbridge)|![solidity] ![rust] ![xchain]|
 |2025-10|![crit]|![l1]|[ZIGChain](https://github.com/oak-security/audit-reports/tree/main/ZIGChain)|![go] ![xchain]|
