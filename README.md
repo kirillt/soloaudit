@@ -1,4 +1,4 @@
-# Security Research and Custom Solutions
+# Protocol Security & Architecture
 ![l1] ![l2] ![zk] ![xchain-big] ![vms] ![compilers]
 
 ![ecc] ![formal] ![xcm] ![rust-big]
