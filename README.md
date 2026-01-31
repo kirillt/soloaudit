@@ -3,7 +3,7 @@
 
 ![ecc] ![formal] ![xcm] ![rust-big]
 
-I’m a Security Researcher with 3 years of experience, backed by 12 years in software engineering (since 2011).
+I’m a Security Researcher with 3 years of experience, backed by 12 years in Software Engineering (since 2011).
 
 Running [Taran.Space](https://www.taran.space) these days.
 
@@ -15,8 +15,9 @@ MSc in Mathematics and Software Engineering
 ## Career
 Some companies I've worked for:
 - [Parity Technologies](https://www.parity.io)
+- [Oak Security](https://oaksecurity.io)
 - [JetBrains](https://www.jetbrains.com)
-- [Intel](https://www.intel.com/content/www/us/en/products/details/processors/core.html)
+- [Intel](https://www.intel.com)
 
 [More about my full-time career](https://www.taran.space/cv)
 
